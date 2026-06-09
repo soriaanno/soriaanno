@@ -1,166 +1,110 @@
-# 👋 ¡Hola Mundo! Soy Javier Soriano
+👋 ¡Hola Mundo! Soy Javier Soriano
+<p align="center"> <a href="https://www.linkedin.com/in/javier-soriano-moreno"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"> </a> <a href="mailto:soriano8822@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"> </a> <a href="https://github.com/soriaanno"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"> </a> </p> <p align="center"> 📱 Android Developer · 🎮 Game Developer (Unity) · 🧠 Software Engineer 📍 Jódar, Andalucía, España 🇪🇸 </p>
+⚡ Perfil
+class JavierSoriano {
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/javier-soriano-moreno"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="mailto:SORIANO8822@GMAIL.COM"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
-  <a href="https://github.com/soriaanno"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
-</p>
+    String rol = "Android & Game Developer";
+    String formacion = "Técnico Superior DAM + Especialización en Videojuegos y RV";
 
-> 📱 **Android Developer** · 🎓 **Técnico Superior DAM** · 🎮 **Unity & Game Development**
-> 📍 *Jódar, Andalucía, España 🇪🇸*
+    String[] stack = {
+        "Kotlin", "Java", "C#", "SQL",
+        "Unity", "Android Studio", "Git"
+    };
 
----
+    String enfoque = "Crear software limpio, escalable y con experiencia de usuario sólida.";
 
-## 🧠 Sobre mí
-
-```java
-public class JavierSoriano {
-    String rol         = "Desarrollador de Software / Android";
-    String formacion   = "Desarrollo de Aplicaciones Multiplataforma (DAM)";
-    String especialidad = "Curso de Especialización en Videojuegos y RV";
-
-    String[] tecnologias = {"Kotlin", "Java", "C#", "SQL", "Git"};
-    String[] intereses   = {"Android Dev", "Clean Architecture", "Unity 2D/3D", "Backend"};
-
-    String objetivo = "Seguir creciendo como desarrollador y aportar valor en proyectos exigentes.";
+    String objetivo = "Trabajar en proyectos reales de software o videojuegos a nivel profesional.";
 }
-```
+🧠 Sobre mí
 
-Soy desarrollador de software con formación en Desarrollo de Aplicaciones Multiplataforma (DAM) y experiencia en prácticas como desarrollador Android.
+Soy desarrollador de software especializado en Android (Kotlin/Java) y videojuegos con Unity (C#).
 
-Tengo experiencia en el desarrollo de aplicaciones móviles con Kotlin y Java, consumo de APIs REST, bases de datos y control de versiones con Git. También he desarrollado videojuegos con Unity y C#, aplicando principios de programación, diseño de mecánicas y desarrollo de entornos interactivos.
+Tengo experiencia creando aplicaciones móviles con consumo de APIs REST, gestión de bases de datos y control de versiones con Git.
+En paralelo, desarrollo videojuegos 2D/3D donde aplico lógica de gameplay, físicas, animaciones y diseño de sistemas interactivos.
 
-Me apasiona aprender nuevas tecnologías, resolver problemas y participar en proyectos que me permitan seguir creciendo profesionalmente.
+Me interesa especialmente el desarrollo limpio, la arquitectura del software y la creación de experiencias jugables sólidas.
 
----
+🚀 Proyectos Destacados
+📱 MoodJournal
 
-# 🚀 Proyectos Destacados
+App Android para registrar estados de ánimo y notas diarias.
 
-## 📱 MoodJournal
+Backend en Java + API REST
+Persistencia de datos estructurada
+Enfoque en UX simple y rápida
 
-Aplicación Android desarrollada en Kotlin para registrar estados de ánimo y notas diarias, con backend en Java y API REST.
+Stack: Kotlin · Java · REST API · SQL · Git
 
-Permite almacenar y gestionar información del usuario de forma estructurada para facilitar el seguimiento emocional diario.
+🎮 Alien Bass
 
-**Tech Stack:** Kotlin · Java · API REST · Git
+Videojuego 2D en Unity ambientado en una pirámide futurista inspirada en la cultura rave.
 
----
+Movimiento con físicas realistas
+Sistema de animaciones
+HUD con progreso vertical y tiempo
+Gameplay tipo plataformas vertical
 
-## 🎮 Alien Bass
+Stack: Unity · C# · Animator · Rigidbody2D · Git
 
-Videojuego 2D desarrollado en Unity centrado en mecánicas de plataformas, físicas, animaciones y progresión vertical del jugador.
+🔫 El Último Jodeño
 
-Ambientado en una pirámide futurista inspirada en música electrónica y cultura rave.
+FPS de supervivencia donde el jugador combate oleadas de enemigos.
 
-**Tech Stack:** Unity · C# · Git
+Sistema de combate
+Loot y objetos interactivos
+IA básica de enemigos
+Mecánicas de supervivencia
 
----
+Stack: Unity · C# · Física · Gameplay Systems
 
-## 🔫 El Último Jodeño
+🎳 La Bolera de Soriano
 
-Videojuego FPS de supervivencia desarrollado en Unity.
+Simulador de bolera interactiva.
 
-El jugador debe enfrentarse a enemigos, recoger recursos y utilizar objetos para acabar con la oleada de enemigos.
+Sistema de puntuación
+Física de bolos realista
+Interacción jugador-entorno
 
-**Tech Stack:** Unity · C# · Git
+Stack: Unity · C# · Physics Engine
 
----
+🛠️ Tech Stack
+📱 Mobile
 
-## 🎳 La Bolera de Soriano
+Kotlin · Java · Android Studio · REST APIs
 
-Proyecto de videojuego desarrollado en Unity basado en una bolera interactiva.
+🎮 Game Dev
 
-Incluye físicas, sistema de puntuación y mecánicas inspiradas en el bowling clásico.
+Unity · C# · 2D/3D Development · Animator · Physics
 
-**Tech Stack:** Unity · C# · Git
+🗄️ Databases
 
----
+SQL · MySQL · SQLite
 
-# 🛠️ Stack Tecnológico
+🌐 Web Basics
 
-## 📱 Desarrollo Móvil
+HTML · CSS · JavaScript
 
-* Kotlin
-* Java
-* Android Studio
-* API REST
+⚙️ Tools
 
-## 🗄️ Bases de Datos
+Git · GitHub · Visual Studio · IntelliJ
 
-* SQL
-* MySQL
-* MySQL Workbench
-* SQLite
+🧩 Habilidades
+🧠 Pensamiento lógico y estructurado
+🧩 Resolución de problemas
+🤝 Trabajo en equipo
+🚀 Aprendizaje rápido
+🔄 Adaptabilidad
+📈 Mejora continua
+🌍 Intereses
 
-## 🎮 Desarrollo de Videojuegos
+🎮 Videojuegos · 📱 Android · 🧠 Software Engineering
+⚽ Fútbol · 🥊 UFC / deportes de contacto
+📈 Economía y mercados
+🎵 Música electrónica
+🏋️ Fitness
 
-* Unity
-* C#
-* Desarrollo 2D
-* Desarrollo 3D
-
-## 🌐 Desarrollo Web
-
-* JavaScript
-* HTML
-* CSS
-
-## ⚙️ Herramientas
-
-* Git
-* GitHub
-
----
-
-# ✨ Habilidades
-
-* 🧩 Resolución de problemas
-* 🤝 Trabajo en equipo
-* 🚀 Aprendizaje continuo
-* 🔄 Adaptabilidad
-* 💡 Pensamiento lógico
-* 📈 Mejora continua
-
----
-
-# 🌱 Intereses
-
-📱 Android Development
-🎮 Desarrollo de Videojuegos
-🗄️ Bases de Datos
-💻 Desarrollo de Software
-⚽ Fútbol
-🥊 UFC y Deportes de Combate
-📈 Economía y Mercados Financieros
-🎵 Música Electrónica
-🏋️ Fitness y Entrenamiento
-
----
-
-# 📊 Estadísticas de GitHub
-
-<!-- Puedes añadir aquí tus estadísticas -->
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=soriaanno\&show_icons=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=soriaanno\&layout=compact)
-
----
-
-# 📫 Contacto
-
-¿Tienes una propuesta, proyecto o simplemente quieres hablar sobre tecnología, desarrollo móvil o videojuegos?
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/javier-soriano-moreno">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
-
-  <a href="mailto:soriano8822@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-  </a>
-
-  <a href="https://github.com/soriaanno">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
-  </a>
-</p>
+📊 GitHub Stats
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=soriaanno&show_icons=true&theme=tokyonight" height="180"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=soriaanno&layout=compact&theme=tokyonight" height="180"> </p>
+📫 Contacto
+<p align="center"> <a href="https://www.linkedin.com/in/javier-soriano-moreno"> <img src="https://img.shields.io/badge/LinkedIn-Conectar-0077B5?style=for-the-badge&logo=linkedin"> </a> <a href="mailto:soriano8822@gmail.com"> <img src="https://img.shields.io/badge/Email-Contactar-D14836?style=for-the-badge&logo=gmail"> </a> <a href="https://github.com/soriaanno"> <img src="https://img.shields.io/badge/GitHub-Perfil-181717?style=for-the-badge&logo=github"> </a> </p>
+💡 “Build, break, learn, repeat.”
