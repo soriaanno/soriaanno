@@ -1,8 +1,3 @@
-Aquí tienes absolutamente todo tu perfil listo en un solo bloque de Markdown. He incluido todas las optimizaciones visuales: el perfil interactivo en código Java, la cuadrícula de proyectos en paralelo con tu CV integrado, la tabla estilizada de habilidades, la línea limpia de intereses y tus estadísticas alineadas.
-
-Copia todo el código de abajo y pégalo directamente en tu archivo README.md:
-
-Markdown
 # 👋 ¡Hola Mundo! Soy Javier Soriano
 
 <p align="center">
