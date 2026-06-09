@@ -19,6 +19,26 @@
 
 ---
 
+## ⚡ Perfil
+
+```java
+class JavierSoriano {
+
+    String rol = "Android & Game Developer";
+    String formacion = "Técnico Superior DAM + Especialización en Videojuegos y RV";
+
+    String[] stack = {
+        "Kotlin", "Java", "C#", "SQL",
+        "Unity", "Android Studio", "Git"
+    };
+
+    String enfoque = "Crear software limpio, escalable y con buena experiencia de usuario.";
+
+    String objetivo = "Trabajar en proyectos reales de software o videojuegos a nivel profesional.";
+}
+```
+---
+
 ## 🧠 Sobre mí
 
 Soy desarrollador de software especializado en Android (Kotlin/Java) y videojuegos con Unity (C#).
