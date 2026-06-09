@@ -36,6 +36,7 @@ class JavierSoriano {
 
     String objetivo = "Trabajar en proyectos reales de software o videojuegos a nivel profesional.";
 }
+```
 🧠 Sobre mí
 
 Soy desarrollador de software especializado en Android (Kotlin/Java) y videojuegos con Unity (C#).
@@ -131,4 +132,5 @@ Git · GitHub · Visual Studio · IntelliJ IDEA
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=soriaanno&show_icons=true&theme=tokyonight"> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=soriaanno&layout=compact&theme=tokyonight"> </p>
 📫 Contacto
 <p align="center"> <a href="https://www.linkedin.com/in/javier-soriano-moreno"> <img src="https://img.shields.io/badge/LinkedIn-Conectar-0077B5?style=for-the-badge&logo=linkedin"> </a> <a href="mailto:soriano8822@gmail.com"> <img src="https://img.shields.io/badge/Email-Contactar-D14836?style=for-the-badge&logo=gmail"> </a> <a href="https://github.com/soriaanno"> <img src="https://img.shields.io/badge/GitHub-Perfil-181717?style=for-the-badge&logo=github"> </a> </p>
+
 💡 “Build. Break. Learn. Repeat.”
