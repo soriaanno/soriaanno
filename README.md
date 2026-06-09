@@ -35,7 +35,6 @@ class JavierSoriano {
     String objetivo  = "Trabajar en proyectos reales de software o videojuegos a nivel profesional.";
 }
 ```
----
 
 ## 🧠 Sobre mí
 
