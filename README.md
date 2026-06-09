@@ -52,53 +52,75 @@ Me interesa especialmente el desarrollo limpio, la arquitectura del software y l
 
 ## 🚀 Proyectos Destacados
 
-### 📱 MoodJournal
-
-App Android para registrar estados de ánimo y notas diarias.
-
-Backend en Java + API REST  
-Persistencia de datos estructurada  
-UX simple y funcional  
-
-**Stack:** Kotlin · Java · REST API · SQL · Git  
-
----
-
-### 🎮 Alien Bass
-
-Videojuego 2D en Unity ambientado en una pirámide futurista estilo rave.
-
-Movimiento con físicas  
-Animaciones y Animator Controller  
-HUD con tiempo y progreso vertical  
-Gameplay de plataformas  
-
-**Stack:** Unity · C# · Rigidbody2D · Animator · Git  
-
----
-
-### 🔫 El Último Jodeño
-
-FPS de supervivencia en Unity.
-
-Oleadas de enemigos  
-Sistema de loot  
-Interacción con objetos  
-Mecánicas de supervivencia  
-
-**Stack:** Unity · C# · IA básica · Gameplay Systems  
-
----
-
-### 🎳 La Bolera de Soriano
-
-Juego de bolos interactivo.
-
-Física realista  
-Sistema de puntuación  
-Interacción jugador-entorno  
-
-**Stack:** Unity · C# · Physics  
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">📱 MoodJournal</h3>
+      <p align="center">
+        <a href="https://github.com/soriaanno/MoodJournal-App">
+          <img src="https://img.shields.io/badge/---%20VER%20PROYECTO%20----181717?style=for-the-badge&logo=github&logoColor=white">
+        </a>
+      </p>
+      <p align="center">App Android nativa para el registro de estados de ánimo y notas diarias con persistencia de datos estructurada y una UX simple y funcional.</p>
+      <p align="center">Backend en Java con API REST.</p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Kotlin-%237F52FF.svg?style=flat&logo=kotlin&logoColor=white">
+        <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white">
+        <img src="https://img.shields.io/badge/SQL-00758F?style=flat&logo=sqlite&logoColor=white">
+        <img src="https://img.shields.io/badge/API_REST-orange?style=flat">
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">🎮 Alien Bass</h3>
+      <p align="center">
+        <a href="https://github.com/soriaanno/Alien-Bass">
+          <img src="https://img.shields.io/badge/---%20VER%20PROYECTO%20----181717?style=for-the-badge&logo=github&logoColor=white">
+        </a>
+      </p>
+      <p align="center">Videojuego 2D de plataformas ambientado en una pirámide futurista estilo rave. Cuenta con mecánicas de movimiento basadas en físicas fluidas.</p>
+      <p align="center">HUD integrado con tiempo y progreso vertical.</p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Unity-%23000000.svg?style=flat&logo=unity&logoColor=white">
+        <img src="https://img.shields.io/badge/C%23-%23239120.svg?style=flat&logo=csharp&logoColor=white">
+        <img src="https://img.shields.io/badge/Animator-gray?style=flat">
+        <img src="https://img.shields.io/badge/Physics_2D-blue?style=flat">
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">🔫 El Último Jodeño</h3>
+      <p align="center">
+        <a href="https://github.com/soriaanno">
+          <img src="https://img.shields.io/badge/---%20VER%20PROYECTO%20----181717?style=for-the-badge&logo=github&logoColor=white">
+        </a>
+      </p>
+      <p align="center">Videojuego FPS (First Person Shooter) de supervivencia en entorno 3D. El jugador interactúa con el entorno para recolectar recursos frente a amenazas.</p>
+      <p align="center">Sistema de loot e IA básica para oleadas de enemigos.</p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Unity-%23000000.svg?style=flat&logo=unity&logoColor=white">
+        <img src="https://img.shields.io/badge/C%23-%23239120.svg?style=flat&logo=csharp&logoColor=white">
+        <img src="https://img.shields.io/badge/AI_Systems-red?style=flat">
+        <img src="https://img.shields.io/badge/Supervivencia-green?style=flat">
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">🎳 La Bolera de Soriano</h3>
+      <p align="center">
+        <a href="https://github.com/soriaanno">
+          <img src="https://img.shields.io/badge/---%20VER%20PROYECTO%20----181717?style=for-the-badge&logo=github&logoColor=white">
+        </a>
+      </p>
+      <p align="center">Juego de bolos interactivo centrado en físicas realistas de colisión y rozamiento para una simulación precisa del bowling clásico.</p>
+      <p align="center">Sistema integrado de cálculo de puntuación en tiempo real.</p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Unity-%23000000.svg?style=flat&logo=unity&logoColor=white">
+        <img src="https://img.shields.io/badge/C%23-%23239120.svg?style=flat&logo=csharp&logoColor=white">
+        <img src="https://img.shields.io/badge/3D_Physics-blueviolet?style=flat">
+      </p>
+    </td>
+  </tr>
+</table>
 
 ---
 
