@@ -1,24 +1,13 @@
 # 👋 ¡Hola Mundo! Soy Javier Soriano
 
-╔══════════════════════════════════════════════════════╗
-║ Android Developer · DAM · Unity & Game Development 🎮 ║
-╚══════════════════════════════════════════════════════╝
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/javier-soriano-moreno">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
-
-  <a href="mailto:SORIANO8822@GMAIL.COM">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-  </a>
-
-  <a href="https://github.com/soriaanno">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
-  </a>
+<p align="left">
+  <a href="https://www.linkedin.com/in/javier-soriano-moreno"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:SORIANO8822@GMAIL.COM"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
+  <a href="https://github.com/soriaanno"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
 </p>
 
-📍 Jódar, Andalucía 🇪🇸
+> 📱 **Android Developer** · 🎓 **Técnico Superior DAM** · 🎮 **Unity & Game Development**
+> 📍 *Jódar, Andalucía, España 🇪🇸*
 
 ---
 
@@ -26,26 +15,14 @@
 
 ```java
 public class JavierSoriano {
+    String rol         = "Desarrollador de Software / Android";
+    String formacion   = "Desarrollo de Aplicaciones Multiplataforma (DAM)";
+    String especialidad = "Curso de Especialización en Videojuegos y RV";
 
-    String rol = "Desarrollador de Software";
-    String formacion = "Desarrollo de Aplicaciones Multiplataforma (DAM)";
+    String[] tecnologias = {"Kotlin", "Java", "C#", "SQL", "Git"};
+    String[] intereses   = {"Android Dev", "Clean Architecture", "Unity 2D/3D", "Backend"};
 
-    String[] tecnologias = {
-        "Kotlin",
-        "Java",
-        "C#",
-        "SQL"
-    };
-
-    String[] intereses = {
-        "Android Development",
-        "Desarrollo de Software",
-        "Bases de Datos",
-        "back-end",
-        "Unity"
-    };
-
-    String objetivo = "Seguir creciendo como desarrollador y participar en proyectos que me permitan aprender y aportar valor.";
+    String objetivo = "Seguir creciendo como desarrollador y aportar valor en proyectos exigentes.";
 }
 ```
 
@@ -65,7 +42,7 @@ Aplicación Android desarrollada en Kotlin para registrar estados de ánimo y no
 
 Permite almacenar y gestionar información del usuario de forma estructurada para facilitar el seguimiento emocional diario.
 
-**Tecnologías:** Kotlin · Java · API REST · Git
+**Tech Stack:** Kotlin · Java · API REST · Git
 
 ---
 
@@ -75,7 +52,7 @@ Videojuego 2D desarrollado en Unity centrado en mecánicas de plataformas, físi
 
 Ambientado en una pirámide futurista inspirada en música electrónica y cultura rave.
 
-**Tecnologías:** Unity · C# · Git
+**Tech Stack:** Unity · C# · Git
 
 ---
 
@@ -85,7 +62,7 @@ Videojuego FPS de supervivencia desarrollado en Unity.
 
 El jugador debe enfrentarse a enemigos, recoger recursos y utilizar objetos para acabar con la oleada de enemigos.
 
-**Tecnologías:** Unity · C# · Git
+**Tech Stack:** Unity · C# · Git
 
 ---
 
@@ -95,7 +72,7 @@ Proyecto de videojuego desarrollado en Unity basado en una bolera interactiva.
 
 Incluye físicas, sistema de puntuación y mecánicas inspiradas en el bowling clásico.
 
-**Tecnologías:** Unity · C# · Git
+**Tech Stack:** Unity · C# · Git
 
 ---
 
