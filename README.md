@@ -1,3 +1,8 @@
+Aquí tienes absolutamente todo tu perfil listo en un solo bloque de Markdown. He incluido todas las optimizaciones visuales: el perfil interactivo en código Java, la cuadrícula de proyectos en paralelo con tu CV integrado, la tabla estilizada de habilidades, la línea limpia de intereses y tus estadísticas alineadas.
+
+Copia todo el código de abajo y pégalo directamente en tu archivo README.md:
+
+Markdown
 # 👋 ¡Hola Mundo! Soy Javier Soriano
 
 <p align="center">
@@ -13,8 +18,8 @@
 </p>
 
 <p align="center">
-📱 Android Developer · 🎮 Game Developer (Unity) · 🧠 Software Engineer  
-📍 Jódar, Andalucía, España 🇪🇸
+  📱 <b>Android Developer</b> · 🎮 <b>Game Developer (Unity)</b> · 🧠 <b>Software Engineer</b><br>
+  📍 <i>Jódar, Andalucía, España 🇪🇸</i>
 </p>
 
 ---
@@ -23,18 +28,16 @@
 
 ```java
 class JavierSoriano {
-
-    String rol = "Android & Game Developer";
-    String formacion = "Técnico Superior DAM + Especialización en Videojuegos y RV";
+    String rol         = "Android & Game Developer";
+    String formacion   = "Técnico Superior DAM + Especialización en Videojuegos y RV";
 
     String[] stack = {
         "Kotlin", "Java", "C#", "SQL",
         "Unity", "Android Studio", "Git"
     };
 
-    String enfoque = "Crear software limpio, escalable y con buena experiencia de usuario.";
-
-    String objetivo = "Trabajar en proyectos reales de software o videojuegos a nivel profesional.";
+    String enfoque   = "Crear software limpio, escalable y con buena experiencia de usuario.";
+    String objetivo  = "Trabajar en proyectos reales de software o videojuegos a nivel profesional.";
 }
 ```
 ---
