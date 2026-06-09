@@ -105,23 +105,21 @@ Me interesa especialmente el desarrollo limpio, la arquitectura del software y l
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">🎳 La Bolera de Soriano</h3>
+      <h3 align="center">💼 Currículum Vítae</h3>
       <p align="center">
-        <a href="https://github.com/soriaanno">
-          <img src="https://img.shields.io/badge/---%20VER%20PROYECTO%20----181717?style=for-the-badge&logo=github&logoColor=white">
+        <a href="https://www.linkedin.com/in/javier-soriano-moreno">
+          <img src="https://img.shields.io/badge/---%20VER%20RESUME%20%2F%20CV%20----6f42c1?style=for-the-badge&logo=readme&logoColor=white">
         </a>
       </p>
-      <p align="center">Juego de bolos interactivo centrado en físicas realistas de colisión y rozamiento para una simulación precisa del bowling clásico.</p>
-      <p align="center">Sistema integrado de cálculo de puntuación en tiempo real.</p>
+      <p align="center">Accede a mi trayectoria profesional completa, stack técnico detallado, historial académico y datos de contacto en formato actualizado.</p>
+      <p align="center">Disponible para descarga directa y consulta online.</p>
       <p align="center">
-        <img src="https://img.shields.io/badge/Unity-%23000000.svg?style=flat&logo=unity&logoColor=white">
-        <img src="https://img.shields.io/badge/C%23-%23239120.svg?style=flat&logo=csharp&logoColor=white">
-        <img src="https://img.shields.io/badge/3D_Physics-blueviolet?style=flat">
+        <img src="https://img.shields.io/badge/CV_Descargable-blue?style=flat">
+        <img src="https://img.shields.io/badge/Contacto_Directo-success?style=flat">
       </p>
     </td>
   </tr>
 </table>
-
 ---
 
 ## 🛠️ Tech Stack
