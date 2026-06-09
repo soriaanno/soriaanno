@@ -1,4 +1,4 @@
-# 👋 ¡Hola! Soy Javier Soriano
+# 👋 ¡Hola Mundo! Soy Javier Soriano
 
 ╔══════════════════════════════════════════════════════╗
 ║ Android Developer · DAM · Unity & Game Development 🎮 ║
@@ -152,8 +152,11 @@ Incluye físicas, sistema de puntuación y mecánicas inspiradas en el bowling c
 🎮 Desarrollo de Videojuegos
 🗄️ Bases de Datos
 💻 Desarrollo de Software
+⚽ Fútbol
+🥊 UFC y Deportes de Combate
+📈 Economía y Mercados Financieros
 🎵 Música Electrónica
-🏋️ Gimnasio
+🏋️ Fitness y Entrenamiento
 
 ---
 
@@ -171,6 +174,16 @@ Incluye físicas, sistema de puntuación y mecánicas inspiradas en el bowling c
 
 ¿Tienes una propuesta, proyecto o simplemente quieres hablar sobre tecnología, desarrollo móvil o videojuegos?
 
-🔗 LinkedIn
-📧 Email
-💻 GitHub
+<p align="center">
+  <a href="https://www.linkedin.com/in/TU-USUARIO/">
+    🔗 LinkedIn
+  </a>
+  ·
+  <a href="mailto:TUEMAIL@gmail.com">
+    📧 Email
+  </a>
+  ·
+  <a href="https://github.com/TU-USUARIO">
+    💻 GitHub
+  </a>
+</p>
