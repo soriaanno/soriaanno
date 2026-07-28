@@ -2,6 +2,10 @@
 <!--                HEADER                      -->
 <!-- ========================================= -->
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0F2027,30:203A43,60:2C5364,100:38BDF8&text=Javier%20Soriano&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Android%20Developer%20%7C%20Software%20Engineer%20%7C%20Unity%20Game%20Developer&descAlignY=58&descSize=22" />
+</p>
+
 <h1 align="center">Hi 👋 I'm Javier Soriano</h1>
 
 <h3 align="center">
