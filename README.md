@@ -49,13 +49,12 @@ Actualmente estoy ampliando mi portfolio mediante proyectos personales mientras 
 
 ## 🛠️ Tecnologías & Herramientas
 
-## 🛠️ Tecnologías & Herramientas
-
-<p align="center">
-  <a href="#">
-    <img src="https://skillicons.dev/icons?i=kotlin,java,cs,js,androidstudio,unity,sqlite,mysql,git,github,idea,vscode&perline=6" />
-  </a>
-</p>
+| Categoría | Tecnologías |
+| :--- | :--- |
+| **Lenguajes** | <img src="https://skillicons.dev/icons?i=kotlin,java,cs,js,html,css" height="35"/> |
+| **Desarrollo** | <img src="https://skillicons.dev/icons?i=androidstudio,unity" height="35"/> |
+| **Bases de Datos** | <img src="https://skillicons.dev/icons?i=sqlite,mysql" height="35"/> |
+| **Herramientas** | <img src="https://skillicons.dev/icons?i=git,github,idea,vscode" height="35"/> |
 
 ---
 
