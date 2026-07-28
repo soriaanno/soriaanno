@@ -38,13 +38,6 @@ Me apasiona crear aplicaciones y videojuegos que ofrezcan una buena experiencia 
 
 Actualmente estoy ampliando mi portfolio mediante proyectos personales mientras busco mi primera oportunidad profesional como desarrollador.
 
-### 🚀 Actualmente
-
-- 📱 Desarrollando aplicaciones Android con **Kotlin** y **Java**.
-- 🎮 Creando videojuegos con **Unity** y **C#**.
-- 🗄️ Trabajando con bases de datos SQL y APIs REST.
-- 🌱 Aprendiendo nuevas tecnologías y buenas prácticas de desarrollo.
-
 ---
 
 ## 🛠️ Tecnologías & Herramientas
