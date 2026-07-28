@@ -239,3 +239,55 @@ Videojuego arcade de bolos desarrollado en Unity centrado en físicas, sistema d
 </p>
 
 ---
+
+# 💼 Actualmente
+
+```text
+📱 Desarrollo Android con Kotlin y Java
+
+🎮 Desarrollo de videojuegos con Unity y C#
+
+🌐 Consumo de APIs REST
+
+🗄️ Bases de datos MySQL y SQLite
+
+🔧 Arquitectura de software
+
+🚀 Desarrollo de proyectos personales
+
+📚 Aprendizaje continuo
+```
+
+---
+
+# 📫 Contacto
+
+<p align="center">
+
+<a href="mailto:soriano8822@gmail.com">
+
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+
+</a>
+
+<a href="https://www.linkedin.com/in/javier-soriano-moreno">
+
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+
+</a>
+
+</p>
+
+---
+
+<p align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=0:0F172A,30:1E3A8A,70:2563EB,100:38BDF8"/>
+
+</p>
+
+<p align="center">
+
+### ⭐ Gracias por visitar mi perfil ⭐
+
+</p>
