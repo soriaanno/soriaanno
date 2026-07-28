@@ -217,3 +217,25 @@ Videojuego arcade de bolos desarrollado en Unity centrado en físicas, sistema d
 </table>
 
 ---
+
+# 📊 Mi actividad en GitHub
+
+<p align="center">
+
+<img width="49%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=soriaanno&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
+
+<img width="49%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=soriaanno&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 📈 Gráfico de actividad
+
+<p align="center">
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=soriaanno&theme=tokyo-night&hide_border=true"/>
+
+</p>
+
+---
