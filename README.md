@@ -89,3 +89,131 @@ Actualmente estoy ampliando mi portfolio mediante proyectos personales mientras 
 </p>
 
 ---
+
+# 🚀 Proyectos Destacados
+
+<table>
+
+<tr>
+
+<td width="50%" valign="top">
+
+<h3 align="center">📱 MoodJournal</h3>
+
+<p align="center">
+
+Aplicación Android desarrollada como proyecto de aprendizaje para registrar estados de ánimo mediante una interfaz intuitiva, almacenamiento local y consumo de APIs REST.
+
+</p>
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=kotlin,java,sqlite"/>
+
+</p>
+
+<p align="center">
+
+<a href="https://github.com/soriaanno/MoodJournal-App">
+
+<img src="https://img.shields.io/badge/Ver%20Repositorio-181717?style=for-the-badge&logo=github&logoColor=white"/>
+
+</a>
+
+</p>
+
+</td>
+
+<td width="50%" valign="top">
+
+<h3 align="center">🎮 Alien Bass</h3>
+
+<p align="center">
+
+Videojuego de plataformas 2D desarrollado con Unity donde el jugador asciende por una pirámide futurista superando distintos desafíos mediante físicas, plataformas y precisión.
+
+</p>
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=unity,cs"/>
+
+</p>
+
+<p align="center">
+
+<a href="https://github.com/soriaanno/Alien-Bass">
+
+<img src="https://img.shields.io/badge/Ver%20Repositorio-181717?style=for-the-badge&logo=github&logoColor=white"/>
+
+</a>
+
+</p>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+<h3 align="center">🔫 El Último Jodeño</h3>
+
+<p align="center">
+
+FPS de supervivencia desarrollado con Unity que incorpora exploración, combate, enemigos con IA, inventario y sistema de botín.
+
+</p>
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=unity,cs"/>
+
+</p>
+
+<p align="center">
+
+<a href="https://github.com/soriaanno">
+
+<img src="https://img.shields.io/badge/Repositorio-181717?style=for-the-badge&logo=github&logoColor=white"/>
+
+</a>
+
+</p>
+
+</td>
+
+<td width="50%" valign="top">
+
+<h3 align="center">🎳 La Bolera de Soriano</h3>
+
+<p align="center">
+
+Videojuego arcade de bolos desarrollado en Unity centrado en físicas, sistema de puntuación y una jugabilidad sencilla y divertida.
+
+</p>
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=unity,cs"/>
+
+</p>
+
+<p align="center">
+
+<a href="https://github.com/soriaanno/La-Bolera-de-Soriano">
+
+<img src="https://img.shields.io/badge/Ver%20Repositorio-181717?style=for-the-badge&logo=github&logoColor=white"/>
+
+</a>
+
+</p>
+
+</td>
+
+</tr>
+
+</table>
+
+---
