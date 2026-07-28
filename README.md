@@ -147,8 +147,8 @@ Especializado en el desarrollo de **aplicaciones móviles Android** (Kotlin/Java
 ## 📊 Estadísticas de GitHub
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats-sigma-five.vercel.app/api?username=soriaanno&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="160" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=soriaanno&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=soriaanno&show_icons=true&theme=tokyonight" />
+  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=soriaanno&theme=tokyonight" />
 </p>
 
 <p align="center">
