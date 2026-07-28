@@ -46,30 +46,17 @@ Actualmente estoy ampliando mi portfolio mediante proyectos personales mientras 
 - 🌱 Aprendiendo nuevas tecnologías y buenas prácticas de desarrollo.
 
 ---
+
 ## 🛠️ Tecnologías & Herramientas
 
-<table width="100%">
-  <tr>
-    <td width="50%" valign="top">
-      <h4>💻 Lenguajes de Programación</h4>
-      <img src="https://skillicons.dev/icons?i=kotlin,java,cs,js,html,css&perline=6" />
-    </td>
-    <td width="50%" valign="top">
-      <h4>📱 Mobile & Videojuegos</h4>
-      <img src="https://skillicons.dev/icons?i=androidstudio,unity&perline=6" />
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h4>🗄️ Bases de Datos</h4>
-      <img src="https://skillicons.dev/icons?i=sqlite,mysql&perline=6" />
-    </td>
-    <td width="50%" valign="top">
-      <h4>⚙️ Herramientas & IDEs</h4>
-      <img src="https://skillicons.dev/icons?i=git,github,idea,vscode&perline=6" />
-    </td>
-  </tr>
-</table>
+## 🛠️ Tecnologías & Herramientas
+
+<p align="center">
+  <a href="#">
+    <img src="https://skillicons.dev/icons?i=kotlin,java,cs,js,androidstudio,unity,sqlite,mysql,git,github,idea,vscode&perline=6" />
+  </a>
+</p>
+
 ---
 
 # 🚀 Proyectos Destacados
