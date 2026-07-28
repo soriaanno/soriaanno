@@ -24,8 +24,6 @@
 
 ---
 
----
-
 # 👨‍💻 Sobre mí
 
 Soy desarrollador de software con formación en **Desarrollo de Aplicaciones Multiplataforma (DAM)** y el **Curso de Especialización en Desarrollo de Videojuegos y Realidad Virtual**.
