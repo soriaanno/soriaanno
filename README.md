@@ -147,15 +147,13 @@ Especializado en el desarrollo de **aplicaciones móviles Android** (Kotlin/Java
 ## 📊 Estadísticas de GitHub
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=soriaanno&show_icons=true&theme=tokyonight" />
   <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=soriaanno&theme=tokyonight" />
+  <img height="165" src="https://github-readme-stats-git-masterrst-anuraghazra.vercel.app/api/top-langs/?username=soriaanno&layout=compact&theme=tokyonight" />
 </p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=soriaanno&color=0077B5&style=flat-square&label=Visitas+al+perfil" alt="Visitas" />
 </p>
-
----
 
 <p align="center">
   <i>💡 Build. Break. Learn. Repeat.</i>
