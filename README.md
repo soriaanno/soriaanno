@@ -174,7 +174,7 @@ FPS de supervivencia desarrollado con Unity que incorpora exploración, combate,
 
 <p align="center">
 
-<a href="https://github.com/soriaanno">
+<a href="https://github.com/soriaanno/el-ultimo-jodenio">
 
 <img src="https://img.shields.io/badge/Repositorio-181717?style=for-the-badge&logo=github&logoColor=white"/>
 
