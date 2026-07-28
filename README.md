@@ -46,48 +46,30 @@ Actualmente estoy ampliando mi portfolio mediante proyectos personales mientras 
 - 🌱 Aprendiendo nuevas tecnologías y buenas prácticas de desarrollo.
 
 ---
-# 🛠 Tecnologías
+## 🛠️ Tecnologías & Herramientas
 
-### 💻 Lenguajes
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=java,kotlin,cs,js,html,css"/>
-
-</p>
-
-### 📱 Desarrollo Android
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=androidstudio"/>
-
-</p>
-
-### 🎮 Desarrollo de Videojuegos
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=unity"/>
-
-</p>
-
-### 🗄 Bases de datos
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=mysql,sqlite"/>
-
-</p>
-
-### ⚙ Herramientas
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,idea"/>
-
-</p>
-
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h4>💻 Lenguajes de Programación</h4>
+      <img src="https://skillicons.dev/icons?i=kotlin,java,cs,js,html,css&perline=6" />
+    </td>
+    <td width="50%" valign="top">
+      <h4>📱 Mobile & Videojuegos</h4>
+      <img src="https://skillicons.dev/icons?i=androidstudio,unity&perline=6" />
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>🗄️ Bases de Datos</h4>
+      <img src="https://skillicons.dev/icons?i=sqlite,mysql&perline=6" />
+    </td>
+    <td width="50%" valign="top">
+      <h4>⚙️ Herramientas & IDEs</h4>
+      <img src="https://skillicons.dev/icons?i=git,github,idea,vscode&perline=6" />
+    </td>
+  </tr>
+</table>
 ---
 
 # 🚀 Proyectos Destacados
