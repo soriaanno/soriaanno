@@ -173,16 +173,6 @@ Videojuego arcade de bolos desarrollado en Unity centrado en físicas, sistema d
 
 ---
 
-# 📈 Gráfico de actividad
-
-<p align="center">
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=soriaanno&theme=tokyo-night&hide_border=true"/>
-
-</p>
-
----
-
 # 💼 Actualmente
 
 ```text
